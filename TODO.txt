@@ -1,0 +1,2 @@
+# TODO: Work on aesthetics and UI
+# The window is not smoothly dragable - fix this behavior
